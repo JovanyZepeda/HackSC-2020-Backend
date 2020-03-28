@@ -1,0 +1,4 @@
+
+HELLO, welcome to the "MessageBoardApp"
+
+IN this java folder we will have the files that will contain the classes and code that we willl write
